@@ -1,0 +1,16 @@
+{
+    "name": "Github",
+    "description": "Share code! A code repository manager.",
+    "version": "1",
+    "app":
+    {
+        "launch":
+        {
+            "web_url": "http://github.com/"
+        }
+    },
+    "icons":
+    {
+        "128": "github-128x128.png"
+    }
+}
